@@ -1,0 +1,8 @@
+@name = gets('Qual o seu nome?')
+show(@name)
+
+@idade = gets('Qual a sua idade?')
+show(@idade)
+
+@data_nascimento = gets('Qual a sua data de nascimento?')
+show(@data_nascimento)
